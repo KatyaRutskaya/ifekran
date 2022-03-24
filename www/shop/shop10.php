@@ -118,12 +118,12 @@ while ($var = mysql_fetch_assoc($products)) {
 	                    <h4>Сортировка</h4>
 	                    <br />
 	                    <select id="sort" name="sort" class="form-control">
-	                        <option value="price_asc">По цене, сначала дешевые</option>
-	                        <option value="price_desc">По цене, сначала дорогие</option>
-	                        
-	                        <option value="good_asc">По названию, A-Z</option>
-	                        <option value="good_desc">По названию, Z-A</option>
-	                    </select>
+                            <option value="price_asc">По цене, сначала дешевые</option>
+                            <option value="price_desc">По цене, сначала дорогие</option>
+                            
+                            <option value="good_asc">По названию, A-Я</option>
+                            <option value="good_desc">По названию, Я-A</option>
+                        </select>
                         <br />
 	                </div>
 	            </form>
