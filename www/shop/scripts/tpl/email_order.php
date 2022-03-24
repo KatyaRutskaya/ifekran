@@ -5,7 +5,7 @@
 
 <body style="width: 98%">
 <div style="font-family: Arial; font-size: 16px; width: 100%; padding: 5px 0">
-    <div><b>Спасибо, что выбрали наш магазин!</b></div>
+    <div><b>Спасибо, что выбрали наш филиал!</b></div>
     <div>Ваш заказ №<?php echo $data['order_id'] ?></div>
     <div style="margin: 20px 0">
         <b>Общие сведения:</b>
