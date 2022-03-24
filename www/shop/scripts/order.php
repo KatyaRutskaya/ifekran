@@ -11,7 +11,7 @@ define('DB_NAME', 'ekran');
 
 define('EMAIL_ADMIN', 'katyushaweb@mail.ru');
 define('EMAIL_FROM_NAME', 'Интернет-сайт ИФ ОАО Экран');
-define('SITE', 'if2.com');
+define('SITE', 'ifekran');
 
 
 // Подключаемся к базе данных
